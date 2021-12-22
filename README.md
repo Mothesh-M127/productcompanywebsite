@@ -40,7 +40,8 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.png)
+![homepage](https://user-images.githubusercontent.com/94170892/147064000-caaed664-c204-4567-a590-4912c8f50354.png)
+
 
 ## Result:
 
