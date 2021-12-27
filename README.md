@@ -446,16 +446,20 @@ body {
 
 ### Home Page:
 
-![output](./images/homepage.png)
+![homepage](https://user-images.githubusercontent.com/94170892/147434085-49018b5c-e910-41f3-b5cd-437f3bcb82b0.png)
+
 
 ### Product Page:
-![output](./images/product.png)
+
+![product](https://user-images.githubusercontent.com/94170892/147434099-83aaaf78-7f20-4032-baa7-2d7b6ac4a098.png)
 
 ### People Page:
-![output](./images/people.png)
+
+![people](https://user-images.githubusercontent.com/94170892/147434112-d1970fe9-f957-49a3-aa58-515e4106f3f6.png)
 
 ### Contact Us:
-![output](./images/contact.png)
+![contact](https://user-images.githubusercontent.com/94170892/147434126-fa4e2ab1-a525-4d00-8e34-bdf6323592da.png)
+
 
 ## Result:\
 
